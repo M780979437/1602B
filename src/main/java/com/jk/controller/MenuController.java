@@ -26,6 +26,7 @@ public class MenuController extends BaseController {
 	@RequestMapping("/initTree")
 	public void initTree(String id, HttpServletResponse response) {
 		logger.info("初始化加载树形结构方法开始。。。。");
+		logger.info("modify git repository");
 		Json j = new Json();
 		try {
 			List<Menu> initTree = menuService.initTree(id);
