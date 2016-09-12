@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.jk.dao.UserMapper" >
+  <resultMap id="BaseResultMap" type="com.jk.model.User" >
+    <id column="ID" property="id" jdbcType="VARCHAR"/>
+    <result column="NAME" property="name" jdbcType="VARCHAR" />
+    <result column="PWD" property="pwd" jdbcType="VARCHAR" />
+    <result column="CREATEDATETIME" property="createdatetime" jdbcType="TIMESTAMP" />
+    <result column="MODIFYDATETIME" property="modifydatetime" jdbcType="TIMESTAMP" />
+  </resultMap>
+  <resultMap id="ResultMap" type="com.jk.model.User" >
+    <id column="ID" property="id" jdbcType="VARCHAR"/>
+    <result column="NAME" property="name" jdbcType="VARCHAR" />
+    <result column="PWD" property="pwd" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    ID, NAME, PWD, CREATEDATETIME, MODIFYDATETIME
+  </sql>
+ 
+ <!-- 添加用户 -->
+ <insert id="insert" parameterType="com.jk.model.User">
+ 	INSERT INTO DY_USER (ID, NAME, PWD, CREATEDATETIME, MODIFYDATETIME) VALUES 
+ 		(#{id}, #{name}, #{pwd}, #{createdatetime}, #{modifydatetime})
+ </insert>
+ 
+ <!-- 删除用户 -->
+ <delete id="deleteUser" parameterType="com.jk.model.User">
+ 	DELETE FROM DY_USER WHERE ID = #{id}
+ </delete>
+ 
+ <!-- 修改用户 -->
+ <update id="updateUser" parameterType="com.jk.model.User">
+ 	UPDATE DY_USER
+ 	<set>
+ 		<if test="name != null">
+ 			NAME = #{name},
+ 		</if>
+ 		<if test="pwd != null">
+ 			PWD = #{pwd},
+ 		</if>
+ 		<if test="createdatetime != null">
+ 			CREATEDATETIME = #{createdatetime},
+ 		</if>
+ 		<if test="modifydatetime != null">
+ 			MODIFYDATETIME = #{modifydatetime},
+ 		</if>
+ 	</set>
+ 	WHERE ID = #{id}
+ </update>
+ 
+ <!-- 查询用户信息列表 -->
+ <select id="userList" resultMap="BaseResultMap" parameterType="com.jk.model.User">
+ 	SELECT ID, NAME, PWD, CREATEDATETIME, MODIFYDATETIME FROM DY_USER
+ </select>
+ 
+ <!-- 用户列表，分页查询 -->
+ <select id="userPaginationList" resultMap="BaseResultMap" parameterType="com.jk.model.User">
+ 	SELECT * FROM(
+     SELECT t.*, ROWNUM rn FROM (
+       SELECT * FROM DY_USER ORDER BY MODIFYDATETIME DESC
+   <![CDATA[   ) t WHERE ROWNUM < ${page*rows + 1}
+   ) WHERE rn > ${(page-1)* rows}]]>
+ </select>
+ <!-- 用户登录 -->
+ <select id="login" resultMap="BaseResultMap" parameterType="com.jk.model.User">
+ 	SELECT ID, NAME, PWD, CREATEDATETIME, MODIFYDATETIME FROM DY_USER 
+ 	<where>
+ 		<if test="name != null">
+ 			AND NAME = #{name}
+ 		</if>
+ 		<if test="pwd != null">
+ 			AND PWD = #{pwd}
+ 		</if>
+ 	</where>
+ </select>
+</mapper>

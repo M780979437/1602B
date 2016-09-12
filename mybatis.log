@@ -1,0 +1,1585 @@
+[ERROR][2016-08-15 14:52:51,748][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-15 14:52:51,995][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-15 14:53:42,719][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 14:53:43,192][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 14:53:43,203][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-15 15:29:18,032][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-15 15:29:18,251][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-15 15:29:45,488][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 15:29:45,952][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 15:29:45,966][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 15:31:08,200][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 15:31:08,247][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 15:31:08,263][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-15 15:31:17,030][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-16 09:48:23,758][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 09:48:24,162][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 09:48:25,873][com.jk.listener.RepairListener]修复数据库
+[ERROR][2016-08-16 11:09:00,791][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:09:00,964][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:09:01,993][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:12:05,172][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:12:05,843][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:12:05,854][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:12:13,441][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:12:13,520][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:12:33,270][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:12:33,396][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-16 11:14:02,758][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:14:02,963][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:14:03,836][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:14:20,015][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:14:20,390][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:14:20,406][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:14:29,720][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:14:29,752][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-16 11:15:09,896][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:15:10,087][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:15:10,836][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:15:15,298][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:15:15,642][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:15:15,658][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:15:24,612][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-16 11:15:50,528][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:15:50,701][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:15:51,528][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:15:55,383][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:15:55,759][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:15:55,774][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:16:04,780][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:16:04,828][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-16 11:17:13,763][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:17:13,951][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:17:14,872][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:17:31,555][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:17:31,899][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:17:31,930][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:17:40,482][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:17:40,513][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-16 11:19:01,690][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:19:01,863][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:19:02,769][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:19:36,089][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:19:36,418][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:19:36,433][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:19:43,100][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:19:43,115][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:20:11,430][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:11,494][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:11,509][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:19,028][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:19,044][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:20:49,156][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:49,219][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:49,235][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:56,179][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:20:56,195][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:21:16,672][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:21:16,687][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:21:42,040][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:21:42,055][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:22:09,346][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:22:09,361][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-16 11:27:44,820][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 11:27:45,009][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 11:27:45,835][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 11:27:50,706][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:27:51,050][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:27:51,065][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:27:58,756][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:27:58,772][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:28:26,231][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:28:26,246][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-16 11:48:16,592][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 11:48:16,608][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-16 14:39:08,381][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 14:39:08,570][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 14:39:09,404][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 14:41:31,644][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 14:41:38,549][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 14:41:40,584][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-16 14:42:17,525][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 14:42:17,711][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 14:42:18,553][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 14:43:09,170][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 14:44:29,672][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-16 14:45:01,861][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 14:45:02,048][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 14:45:02,859][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 14:45:52,965][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-16 14:47:03,321][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-16 14:47:03,502][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-16 14:47:04,317][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-16 14:47:28,612][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 14:47:31,610][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-16 14:47:33,422][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-17 09:47:29,951][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-17 09:47:30,365][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-17 10:06:15,566][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-17 10:06:15,825][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-17 10:06:16,900][com.jk.listener.RepairListener]修复数据库
+[ERROR][2016-08-17 10:22:08,991][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-17 10:22:09,232][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-17 10:22:10,281][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-17 10:23:40,424][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-17 10:24:01,333][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-17 10:24:02,011][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-18 14:33:30,757][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 14:33:31,008][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 14:33:32,615][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-18 14:40:37,330][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 14:40:37,557][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 14:40:38,595][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 14:40:48,596][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-18 14:42:57,133][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 14:42:57,387][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 14:42:58,446][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 14:43:10,161][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:43:10,397][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:43:10,420][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:43:19,434][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:43:45,465][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:44:46,656][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:44:57,183][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:46:42,138][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:46:42,227][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:46:42,284][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:46:49,441][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:46:57,866][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-18 14:49:51,439][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 14:49:51,635][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 14:49:52,634][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 14:50:06,887][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:50:07,083][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:50:07,157][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:50:14,666][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:50:56,199][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-18 14:51:30,545][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 14:51:30,764][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 14:51:31,684][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 14:51:40,567][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:51:40,810][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:51:40,844][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:51:47,909][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-18 14:56:02,911][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 14:56:03,123][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 14:56:04,049][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 14:56:11,250][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:56:11,474][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:56:11,508][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:56:21,833][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 14:56:21,877][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:19:43,324][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:19:43,612][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:19:44,651][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:21:35,434][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:21:35,716][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:21:35,762][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:21:42,871][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:21:42,946][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:22:55,441][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:22:55,505][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:36:17,007][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:36:17,246][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:36:18,338][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:36:24,784][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:36:25,072][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:36:25,110][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:36:31,704][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:36:31,769][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:37:53,446][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:37:53,720][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:37:54,788][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:38:47,507][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:38:48,043][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:38:48,133][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:38:56,502][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:38:56,533][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:40:41,800][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:40:41,820][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:42:35,952][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:42:36,182][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:42:37,224][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:42:42,554][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:42:42,787][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:42:42,802][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:42:50,618][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:42:50,666][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:43:18,082][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:43:18,104][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:44:43,806][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:44:44,068][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:44:45,252][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:44:50,802][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:44:50,999][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:44:51,016][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:44:58,275][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:44:58,304][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:45:39,604][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:45:39,630][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:46:36,737][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:46:36,992][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:46:38,161][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:46:48,014][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:46:48,260][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:46:48,274][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:46:56,888][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:46:56,921][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:47:36,350][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:47:36,373][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:49:00,115][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:49:00,140][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:49:47,197][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:49:47,445][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:49:48,483][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:49:54,704][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:49:54,924][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:49:54,946][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:50:02,278][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:50:02,303][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-18 15:50:58,685][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:50:58,714][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:51:31,177][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:51:31,412][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:51:32,386][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:51:38,646][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:51:38,862][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:51:38,878][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:51:56,765][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:51:56,795][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:56:02,137][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:56:02,369][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:56:03,397][com.jk.listener.RepairListener]修复数据库
+[ERROR][2016-08-18 15:56:30,618][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:56:30,843][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:56:31,923][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:57:04,579][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:57:04,810][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:57:04,824][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:57:11,080][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:57:11,134][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-18 15:58:00,385][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-18 15:58:00,623][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-18 15:58:01,636][com.jk.listener.RepairListener]修复数据库
+[INFO][2016-08-18 15:58:06,105][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:58:06,324][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:58:06,336][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:58:11,991][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-18 15:58:12,019][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-19 17:46:46,833][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-19 17:46:47,012][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-19 17:46:49,380][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-20 11:56:07,451][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-20 11:56:07,679][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-20 11:56:09,188][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-20 12:04:32,191][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-20 12:04:32,433][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-20 12:04:33,753][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-20 12:13:56,720][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-20 12:13:57,028][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-20 12:14:25,029][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-20 12:14:25,467][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-20 12:14:25,476][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-08-20 12:43:05,157][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-20 12:43:05,351][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-20 12:43:06,388][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-20 13:03:33,716][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-20 13:03:33,924][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-20 13:03:34,972][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-20 14:00:55,757][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-20 14:00:55,994][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-20 14:00:57,196][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-22 20:03:55,659][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-22 20:03:56,108][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-22 20:03:56,458][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,463][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,468][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,470][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,473][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,475][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,478][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,480][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,483][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,485][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,485][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,488][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,490][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,493][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,493][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,495][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,495][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,498][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,500][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,503][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,505][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,508][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,508][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,510][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,510][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,513][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,515][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,525][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,535][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,548][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:03:56,548][com.alibaba.druid.pool.DruidDataSource]create connection error
+java.sql.SQLException: The Network Adapter could not establish the connection
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:412)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:531)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:221)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:32)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:503)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:146)
+	at com.alibaba.druid.filter.stat.StatFilter.connection_connect(StatFilter.java:211)
+	at com.alibaba.druid.filter.FilterChainImpl.connection_connect(FilterChainImpl.java:140)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1355)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1409)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1649)
+Caused by: oracle.net.ns.NetException: The Network Adapter could not establish the connection
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:359)
+	at oracle.net.resolver.AddrResolution.resolveAndExecute(AddrResolution.java:422)
+	at oracle.net.ns.NSProtocol.establishConnection(NSProtocol.java:672)
+	at oracle.net.ns.NSProtocol.connect(NSProtocol.java:237)
+	at oracle.jdbc.driver.T4CConnection.connect(T4CConnection.java:1042)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:301)
+	... 10 more
+Caused by: java.net.NoRouteToHostException: No route to host: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:75)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:339)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:200)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:182)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:157)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:391)
+	at java.net.Socket.connect(Socket.java:579)
+	at oracle.net.nt.TcpNTAdapter.connect(TcpNTAdapter.java:141)
+	at oracle.net.nt.ConnOption.connect(ConnOption.java:123)
+	at oracle.net.nt.ConnStrategy.execute(ConnStrategy.java:337)
+	... 15 more
+[ERROR][2016-08-22 20:04:52,474][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-22 20:04:52,735][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-22 20:05:32,631][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-22 20:05:34,358][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-22 20:05:34,404][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-22 20:06:03,370][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-22 20:06:03,388][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 15:16:53,318][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 15:16:53,538][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 15:17:11,149][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 15:17:11,649][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 15:17:11,664][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 15:17:18,241][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 15:17:18,289][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 15:47:18,102][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 15:47:18,419][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 15:47:38,185][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:30:03,264][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:31:36,882][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:32:30,616][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:33:39,023][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:35:13,551][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:40:13,437][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:44:32,514][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:47:09,218][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 17:47:47,120][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 17:48:32,012][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 17:48:32,247][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 18:05:23,791][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 18:05:23,995][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 18:05:34,361][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 20:01:57,679][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:01:57,754][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:01:57,775][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:02:24,057][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:02:35,782][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:02:38,452][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:02:57,645][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-25 20:02:57,686][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 20:19:45,289][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 20:19:45,492][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 20:21:19,957][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 20:30:02,316][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 20:46:35,413][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 20:46:35,616][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 20:47:37,835][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 20:52:51,464][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 20:52:51,727][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 20:54:12,394][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 20:54:12,595][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 20:54:13,932][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-08-25 20:56:25,989][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 20:56:26,191][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-25 20:57:15,660][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 20:57:44,299][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-25 20:58:16,556][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-25 20:59:41,396][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 20:59:41,585][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 21:14:11,901][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 21:14:12,131][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 21:21:36,644][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 21:21:36,908][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 21:24:21,687][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 21:24:21,879][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 21:25:58,586][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 21:25:58,797][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-25 21:28:32,006][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-25 21:28:32,203][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 08:42:10,957][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 08:42:11,192][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 08:58:14,419][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 08:58:14,639][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 09:55:15,846][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 09:55:16,034][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 09:59:50,919][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 09:59:51,123][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 11:01:41,040][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 11:01:41,282][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 11:02:09,392][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-26 11:02:09,979][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-26 11:02:09,991][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-26 11:02:18,891][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-26 11:02:18,930][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-26 11:12:47,951][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-26 11:13:23,109][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-26 11:14:10,980][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 11:14:11,183][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 11:14:22,620][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-08-26 13:33:43,517][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 13:33:43,765][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 13:34:19,556][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 13:34:19,556][com.jk.controller.UserController].xml
+[INFO][2016-08-26 13:35:44,721][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 13:35:47,378][com.jk.controller.UserController].xml
+[INFO][2016-08-26 13:35:56,072][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 13:35:57,671][com.jk.controller.UserController].xml
+[INFO][2016-08-26 13:36:25,407][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 13:36:25,407][com.jk.controller.UserController].xml
+[INFO][2016-08-26 13:53:29,000][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 13:53:29,000][com.jk.controller.UserController].xml
+[INFO][2016-08-26 14:07:54,064][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:07:54,064][com.jk.controller.UserController].xml
+[INFO][2016-08-26 14:09:58,287][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:09:58,287][com.jk.controller.UserController].xml
+[ERROR][2016-08-26 14:48:47,717][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 14:48:47,999][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 14:51:27,014][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 14:51:27,235][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 14:52:45,855][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:52:45,855][com.jk.controller.UserController].txt
+[INFO][2016-08-26 14:52:49,038][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:52:49,038][com.jk.controller.UserController].txt
+[INFO][2016-08-26 14:53:26,034][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:53:27,896][com.jk.controller.UserController].txt
+[ERROR][2016-08-26 14:56:23,339][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 14:56:23,590][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 14:56:36,905][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:56:38,248][com.jk.controller.UserController].txt
+[ERROR][2016-08-26 14:57:55,320][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 14:57:55,525][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 14:58:12,977][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 14:58:15,131][com.jk.controller.UserController].xml
+[ERROR][2016-08-26 15:36:10,258][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 15:36:10,446][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-26 15:36:43,605][com.jk.controller.UserController]D:\workspaces1602B-2016-07-18\dyjfc\src\main\webapp\upload
+[INFO][2016-08-26 15:36:45,775][com.jk.controller.UserController].xml
+[ERROR][2016-08-26 16:05:50,723][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 16:05:51,011][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 16:10:56,868][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 16:10:57,075][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 16:12:47,212][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 16:12:47,466][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-26 20:23:56,228][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-26 20:23:56,466][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-27 10:19:11,177][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-27 10:19:11,573][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-08-30 18:28:51,626][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-08-30 18:28:52,017][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-08-30 18:29:09,550][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:29:11,159][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:29:11,180][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:29:18,455][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:29:18,529][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:29:41,111][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:29:41,128][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:30:02,956][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:31:03,022][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:31:14,933][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:32:02,846][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:32:35,131][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:32:35,152][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:33:19,450][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:33:19,468][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:34:07,403][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:34:07,427][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:34:32,897][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:34:32,912][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:34:46,974][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:34:46,990][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:35:20,777][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:35:20,793][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:35:42,103][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:35:42,119][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:35:58,050][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:35:58,065][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:36:11,563][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:36:11,594][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:36:28,766][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:36:28,787][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:36:59,000][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:36:59,016][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:37:18,712][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:37:18,727][com.jk.controller.UserController]用户信息查询
+[INFO][2016-08-30 18:37:33,832][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-08-30 18:37:33,851][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-09-01 15:32:41,916][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-01 15:32:42,462][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-01 15:33:29,727][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-01 15:33:31,046][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-01 15:33:31,057][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-09-01 15:34:26,412][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-01 15:34:26,633][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-01 15:34:28,237][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-09-02 08:17:53,882][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-02 08:17:54,086][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-02 08:18:10,214][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:18:10,768][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:18:10,780][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:19:50,973][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:19:51,020][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:19:51,036][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:20:00,587][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 08:20:00,618][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-09-02 10:16:21,120][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-02 10:16:21,377][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-02 10:16:44,306][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 10:16:44,861][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 10:16:44,870][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 10:16:51,998][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 10:16:52,196][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-09-02 10:17:33,265][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-02 10:17:33,489][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-02 10:17:34,716][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-09-02 11:47:05,237][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-02 11:47:05,457][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-02 11:47:06,659][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-09-02 19:34:16,962][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-02 19:34:17,228][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-02 19:34:43,071][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 19:34:43,744][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 19:34:43,807][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 19:34:53,669][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-02 19:34:53,700][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-09-03 10:36:49,485][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-03 10:36:49,727][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-03 10:37:41,668][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[ERROR][2016-09-03 10:38:29,631][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-03 10:38:29,916][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[ERROR][2016-09-03 10:38:52,767][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-03 10:38:53,111][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-03 10:39:09,227][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-03 10:39:09,717][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-03 10:39:09,732][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-03 10:39:18,084][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-03 10:39:18,114][com.jk.controller.UserController]用户信息查询
+[ERROR][2016-09-06 20:09:52,230][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-06 20:09:52,948][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-06 20:09:55,525][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[ERROR][2016-09-12 07:49:50,957][com.alibaba.druid.pool.DruidAbstractDataSource]maxIdle is deprecated
+[INFO][2016-09-12 07:49:51,691][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][2016-09-12 07:51:24,784][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:51:25,886][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:51:25,901][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:52:16,506][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:52:16,550][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:52:16,603][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:52:23,107][com.jk.controller.MenuController]初始化加载树形结构方法开始。。。。
+[INFO][2016-09-12 07:52:23,132][com.jk.controller.UserController]用户信息查询

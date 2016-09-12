@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.jk.dao.MenuMapper" >
+  <resultMap id="BaseResultMap" type="com.jk.model.Menu" >
+    <id column="ID" property="id" jdbcType="VARCHAR" />
+    <result column="TEXT" property="text" jdbcType="VARCHAR" />
+    <result column="URL" property="url" jdbcType="VARCHAR" />
+    <result column="ICONCLS" property="iconcls" jdbcType="VARCHAR" />
+    <result column="PID" property="pid" jdbcType="VARCHAR" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    ID, TEXT, URL, ICONCLS, PID
+  </sql>
+  <select id="getMenuById" resultMap="BaseResultMap" parameterType="java.lang.String">
+  	SELECT * FROM DY_MENU WHERE PID IS NULL
+  </select>
+  
+  <select id="getMenus" resultMap="BaseResultMap" parameterType="java.lang.String">
+  	SELECT * FROM DY_MENU WHERE PID = #{id}
+  </select>
+  
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.String" >
+    select 
+    <include refid="Base_Column_List" />
+    from DY_MENU
+    where ID = #{id,jdbcType=VARCHAR}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.String" >
+    delete from DY_MENU
+    where ID = #{id,jdbcType=VARCHAR}
+  </delete>
+  <insert id="insert" parameterType="com.jk.model.Menu" >
+    insert into DY_MENU (ID, TEXT, URL, 
+      ICONCLS, PID)
+    values (#{id,jdbcType=VARCHAR}, #{text,jdbcType=VARCHAR}, #{url,jdbcType=VARCHAR}, 
+      #{iconcls,jdbcType=VARCHAR}, #{pid,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="com.jk.model.Menu" >
+    insert into DY_MENU
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        ID,
+      </if>
+      <if test="text != null" >
+        TEXT,
+      </if>
+      <if test="url != null" >
+        URL,
+      </if>
+      <if test="iconcls != null" >
+        ICONCLS,
+      </if>
+      <if test="pid != null" >
+        PID,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=VARCHAR},
+      </if>
+      <if test="text != null" >
+        #{text,jdbcType=VARCHAR},
+      </if>
+      <if test="url != null" >
+        #{url,jdbcType=VARCHAR},
+      </if>
+      <if test="iconcls != null" >
+        #{iconcls,jdbcType=VARCHAR},
+      </if>
+      <if test="pid != null" >
+        #{pid,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.jk.model.Menu" >
+    update DY_MENU
+    <set >
+      <if test="text != null" >
+        TEXT = #{text,jdbcType=VARCHAR},
+      </if>
+      <if test="url != null" >
+        URL = #{url,jdbcType=VARCHAR},
+      </if>
+      <if test="iconcls != null" >
+        ICONCLS = #{iconcls,jdbcType=VARCHAR},
+      </if>
+      <if test="pid != null" >
+        PID = #{pid,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where ID = #{id,jdbcType=VARCHAR}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.jk.model.Menu" >
+    update DY_MENU
+    set TEXT = #{text,jdbcType=VARCHAR},
+      URL = #{url,jdbcType=VARCHAR},
+      ICONCLS = #{iconcls,jdbcType=VARCHAR},
+      PID = #{pid,jdbcType=VARCHAR}
+    where ID = #{id,jdbcType=VARCHAR}
+    <where>
+    	<if test=""></if>
+    </where>
+  </update>
+</mapper>

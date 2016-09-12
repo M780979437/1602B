@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans>
+    <bean id="schedulerFactory"
+        class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+        <property name="triggers">
+            <list>
+                <ref local="processSrurgencyHandlerTimerTrigger" />
+            </list>
+        </property>
+    </bean>
+
+    <!-- 境内自动催办程序 -->
+    <bean id="processSrurgencyHandlerTimerTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+        <property name="jobDetail">
+            <ref local="processSrurgencyHandlerTask" />
+        </property>
+        <property name="cronExpression">
+            <value>*/20 * * * * ? *</value>
+        </property>
+    </bean>
+    <bean id="processSrurgencyHandlerTask"
+        class="org.springframework.scheduling.quartz.MethodInvokingJobDetailFactoryBean">
+        <property name="concurrent">
+            <value>false</value>
+        </property>
+        <property name="targetObject">
+            <ref local="userQueryLogin" />
+        </property>
+        <property name="targetMethod"><!-- 该方法中不可以有参数 -->
+            <value>excute</value>
+        </property>
+    </bean>
+    <bean id="userQueryLogin" class="com.jk.schedule.UserQueryLogin"></bean>
+</beans>
